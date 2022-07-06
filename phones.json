@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "62c413bbcaecbea4e552d227"
+  },
+  "name": "iphone 13",
+  "price": "78000",
+  "color": "black",
+  "ram": "4gb",
+  "storage": "129gb",
+  "isAvailable": true,
+  "numberStoks": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c54f8250a977f39b1a5d88"
+  },
+  "name": "iphone 12",
+  "price": "68000",
+  "color": "black",
+  "ram": "4gb",
+  "storage": "129gb",
+  "isAvailable": true,
+  "numberStoks": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c54f8a50a977f39b1a5d89"
+  },
+  "name": "iphone 12",
+  "price": "68000",
+  "color": "white",
+  "ram": "4gb",
+  "storage": "129gb",
+  "isAvailable": true,
+  "numberStoks": 23,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "62c54fa650a977f39b1a5d8a"
+  },
+  "name": "Pixel 6",
+  "price": "68000",
+  "color": "red",
+  "ram": "8gb",
+  "storage": "129gb",
+  "isAvailable": true,
+  "numberStoks": 23,
+  "__v": 0
+}]
